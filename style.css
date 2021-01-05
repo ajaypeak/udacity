@@ -1,0 +1,56 @@
+body{
+  background-color: orange;
+  text-align: center;
+}
+img{
+  width:300px;
+  height:300px;
+  margin: auto;
+  padding: 15px;
+  border: 5px solid #555;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.boxed {
+  margin: auto;
+   width: 320px;
+   border: 3px solid green;
+   padding: 10px;
+
+}
+
+.factbox {
+  margin: auto;
+ width: 320px;
+ border: 3px solid green;
+ padding: 10px;
+}
+
+.facttitle {
+  margin: auto;
+ width: 320px;
+ border: 3px solid green;
+ padding: 10px;
+}
+
+.heading {
+  margin: auto;
+ width: 320px;
+ border: 3px solid purple;
+ padding: 10px;
+}
+
+.toptrump {
+  margin: auto;
+ width: 350px;
+ height: 800px;
+ border: 3px solid red;
+ padding: 10px;
+ background-color: white;
+}
